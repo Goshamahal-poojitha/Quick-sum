@@ -8,12 +8,15 @@ The scope of this project includes designing and implementing an automated syste
 <img width="1287" height="621" alt="image" src="https://github.com/user-attachments/assets/91c697e4-3946-4aff-a7fc-7e404db914a8" />
   
  **LOGIN PAGE**
+ 
  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7a4ecb5c-1c90-451e-9054-21b70f548dac" />
 <img width="675" height="522" alt="image" src="https://github.com/user-attachments/assets/98420699-57bf-4786-b407-2a6cb481a4ef" />
 
 ** OUTPUT **
 <img width="638" height="627" alt="image" src="https://github.com/user-attachments/assets/d5098856-dcb3-4b2d-a354-913167724c30" />
 <img width="713" height="629" alt="image" src="https://github.com/user-attachments/assets/b9801c92-9001-42cc-82bb-daaf16db23d9" />
+
+
 **Conclusion**
 The QuickSum project presents an AI-powered document summarization system designed to enhance information accessibility and productivity across various fields. By integrating NLP, OCR, and computer vision, the system efficiently condenses large documents while preserving essential insights. Its ability to process diverse content formats, including text, images, tables, and charts, makes it a versatile tool for users managing information overload. Ultimately, QuickSum aims to streamline research, legal analysis, and content creation by providing concise, accurate summaries. ​
 **Future Scope**
